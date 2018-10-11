@@ -1,0 +1,3 @@
+[submodule "moduleA"]
+	path = moduleA
+	url = git://github.com/tomtom/vimball.rb.git
