@@ -1,4 +1,0 @@
-[submodule "moduleA"]
-	path = moduleA
-	url = https://github.com/google/vroom.git
-
